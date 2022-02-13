@@ -14,11 +14,10 @@ Kenapa? Sebagai contoh kasus ketika menulis program C/C++/Java memungkinkan untu
 Python adalah bahasa yang ditafsirkan, yang dapat menghemat waktu kita selama pengembangan program karena tidak diperlukan kompilasi dan penautan. Interpreter dapat digunakan secara interaktif, yang membuatnya mudah bereksperimen dengan fitur-fitur bahasa, untuk menulis throw-away programs, atau untuk menguji fungsi selama pengembangan program bottom-up.
 
 Python memungkinkan program ditulis secara ringkas dan mudah dibaca. Program yang ditulis dengan Python biasanya jauh lebih pendek daripada program C, C++, atau Java yang setara, karena beberapa alasan:
-    * Tipe data tingkat tinggi memungkinkan Kita untuk mengekspresikan operasi yang kompleks dalam satu pernyatann;
+   * Tipe data tingkat tinggi memungkinkan Kita untuk mengekspresikan operasi yang kompleks dalam satu pernyatann;
+   * Pengelompokan pernyataan dilakukan dengan indentasi alih-alih tanda kurung kurawal di awal dan akhir;
 
-    * Pengelompokan pernyataan dilakukan dengan indentasi alih-alih tanda kurung kurawal di awal dan akhir;
-    
-    * Tidak ada deklarasi variabel atau argumen yang diperlukan.
+   * Tidak ada deklarasi variabel atau argumen yang diperlukan.
 
 Python bersifat extensible yang artinya Python dapat dikembangkan untuk berbagai macam tugas, misalnya pembuatan aplikasi web atau pun desktop, proses analisis data, dll. Selain itu, Python juga terintegrasi dengan baik dengan berbagai macam bahasa pemrograman lainnya dan layanan enterprise. Di bagian bagian yang mulai melibatkan sumber daya komputasi yang cukup besar, kita dapat menggunakan fungsi yang ada di bahasa pemrograman lain yang bersifat low-level programming language (bahasa pemrograman yang sulit untuk dibaca dan ditulis oleh manusia) namun dikemas menjadi fungsionalitas yang ada di Python.
 
